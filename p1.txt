@@ -1,3 +1,6 @@
 HII HELLO
 I am using GIT
+<<<<<<< HEAD
 Master Bracnh
+User1 Branch
+user1
